@@ -1,2 +1,2 @@
 # ocserv
-cisco anyconnect Server config &amp; install
+This script is How to quick install cisco anyconnect Server on Centos7
